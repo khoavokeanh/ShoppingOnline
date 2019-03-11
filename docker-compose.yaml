@@ -1,0 +1,7 @@
+SSLMODE: disable
+POSTGRES_HOST: localhost
+ports: 5432
+POSTGRES_USER: postgres
+POSTGRES_PASSWORD: cuocdoi123
+POSTGRES_DB: ShoppingOnline
+      
